@@ -1,4 +1,3 @@
-
 import time
 from email.mime import audio
 from winsound import PlaySound
@@ -98,5 +97,3 @@ else:
 
           print(" *** Encerrando consulta *** \n")
            
-
-
